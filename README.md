@@ -1,6 +1,6 @@
 # Lottie Animation Test Project
 
-First try to animate svgs files in Adobe After Effects to "play" it in the browser.
+First try to animate svgs files in Adobe After Effects and to "play" it in the browser.
 
 # Getting Started with Create React App
 
